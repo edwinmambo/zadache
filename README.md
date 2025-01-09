@@ -1,6 +1,6 @@
 # **Zadache** – Your Smart Task Manager
 
-🎯 _Turn Every Task into a Triumph with **Zadache** — Where Focus Meets Flow!_
+_Turn Every Task 📋 into a Triumph 🏆 with **Zadache** — Where Focus 🎯 Meets Flow 🌊!_
 
 ## 📖 Overview
 
