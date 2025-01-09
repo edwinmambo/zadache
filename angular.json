@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "angular-eslint-prettier-starter": {
+    "zadache": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/angular-eslint-prettier-starter",
+            "outputPath": "dist/zadache",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": ["zone.js"],
@@ -66,10 +66,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "angular-eslint-prettier-starter:build:production"
+              "buildTarget": "zadache:build:production"
             },
             "development": {
-              "buildTarget": "angular-eslint-prettier-starter:build:development"
+              "buildTarget": "zadache:build:development"
             }
           },
           "defaultConfiguration": "development"
